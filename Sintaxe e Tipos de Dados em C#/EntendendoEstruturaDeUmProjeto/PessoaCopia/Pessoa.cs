@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace EntendendoEstruturaDeUmProjeto.Models // organização das classes
+namespace EntendendoEstruturaDeUmProjeto.PessoaCopia // organização das classes
 {
     public class Pessoa // Classe
     {
