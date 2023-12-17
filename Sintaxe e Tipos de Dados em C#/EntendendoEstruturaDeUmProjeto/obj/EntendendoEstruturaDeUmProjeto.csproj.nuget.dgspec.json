@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lucas\\OneDrive\\Área de Trabalho\\Meus cursos\\DIO\\C#\\Sintaxe e Tipos de Dados em C#\\EntendendoEstruturaDeUmProjeto\\EntendendoEstruturaDeUmProjeto.csproj": {}
+    "C:\\Users\\Lucas\\OneDrive\\Área de Trabalho\\Meus cursos\\DIO\\CSharp_DIO\\Sintaxe e Tipos de Dados em C#\\EntendendoEstruturaDeUmProjeto\\EntendendoEstruturaDeUmProjeto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lucas\\OneDrive\\Área de Trabalho\\Meus cursos\\DIO\\C#\\Sintaxe e Tipos de Dados em C#\\EntendendoEstruturaDeUmProjeto\\EntendendoEstruturaDeUmProjeto.csproj": {
+    "C:\\Users\\Lucas\\OneDrive\\Área de Trabalho\\Meus cursos\\DIO\\CSharp_DIO\\Sintaxe e Tipos de Dados em C#\\EntendendoEstruturaDeUmProjeto\\EntendendoEstruturaDeUmProjeto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lucas\\OneDrive\\Área de Trabalho\\Meus cursos\\DIO\\C#\\Sintaxe e Tipos de Dados em C#\\EntendendoEstruturaDeUmProjeto\\EntendendoEstruturaDeUmProjeto.csproj",
+        "projectUniqueName": "C:\\Users\\Lucas\\OneDrive\\Área de Trabalho\\Meus cursos\\DIO\\CSharp_DIO\\Sintaxe e Tipos de Dados em C#\\EntendendoEstruturaDeUmProjeto\\EntendendoEstruturaDeUmProjeto.csproj",
         "projectName": "EntendendoEstruturaDeUmProjeto",
-        "projectPath": "C:\\Users\\Lucas\\OneDrive\\Área de Trabalho\\Meus cursos\\DIO\\C#\\Sintaxe e Tipos de Dados em C#\\EntendendoEstruturaDeUmProjeto\\EntendendoEstruturaDeUmProjeto.csproj",
+        "projectPath": "C:\\Users\\Lucas\\OneDrive\\Área de Trabalho\\Meus cursos\\DIO\\CSharp_DIO\\Sintaxe e Tipos de Dados em C#\\EntendendoEstruturaDeUmProjeto\\EntendendoEstruturaDeUmProjeto.csproj",
         "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lucas\\OneDrive\\Área de Trabalho\\Meus cursos\\DIO\\C#\\Sintaxe e Tipos de Dados em C#\\EntendendoEstruturaDeUmProjeto\\obj\\",
+        "outputPath": "C:\\Users\\Lucas\\OneDrive\\Área de Trabalho\\Meus cursos\\DIO\\CSharp_DIO\\Sintaxe e Tipos de Dados em C#\\EntendendoEstruturaDeUmProjeto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
