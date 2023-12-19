@@ -12,3 +12,17 @@ C:\Users\Lucas\OneDrive\Área de Trabalho\Meus cursos\DIO\C#\EntendendoEstrutura
 C:\Users\Lucas\OneDrive\Área de Trabalho\Meus cursos\DIO\C#\EntendendoEstruturaDeUmProjeto\obj\Debug\net7.0\EntendendoEstruturaDeUmProjeto.pdb
 C:\Users\Lucas\OneDrive\Área de Trabalho\Meus cursos\DIO\C#\EntendendoEstruturaDeUmProjeto\obj\Debug\net7.0\EntendendoEstruturaDeUmProjeto.genruntimeconfig.cache
 C:\Users\Lucas\OneDrive\Área de Trabalho\Meus cursos\DIO\C#\EntendendoEstruturaDeUmProjeto\obj\Debug\net7.0\ref\EntendendoEstruturaDeUmProjeto.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Meus cursos\DIO\CSharp_DIO\Sintaxe e Tipos de Dados em C#\EntendendoEstruturaDeUmProjeto\bin\Debug\net7.0\EntendendoEstruturaDeUmProjeto.exe
+C:\Users\Lucas\OneDrive\Área de Trabalho\Meus cursos\DIO\CSharp_DIO\Sintaxe e Tipos de Dados em C#\EntendendoEstruturaDeUmProjeto\bin\Debug\net7.0\EntendendoEstruturaDeUmProjeto.deps.json
+C:\Users\Lucas\OneDrive\Área de Trabalho\Meus cursos\DIO\CSharp_DIO\Sintaxe e Tipos de Dados em C#\EntendendoEstruturaDeUmProjeto\bin\Debug\net7.0\EntendendoEstruturaDeUmProjeto.runtimeconfig.json
+C:\Users\Lucas\OneDrive\Área de Trabalho\Meus cursos\DIO\CSharp_DIO\Sintaxe e Tipos de Dados em C#\EntendendoEstruturaDeUmProjeto\bin\Debug\net7.0\EntendendoEstruturaDeUmProjeto.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Meus cursos\DIO\CSharp_DIO\Sintaxe e Tipos de Dados em C#\EntendendoEstruturaDeUmProjeto\bin\Debug\net7.0\EntendendoEstruturaDeUmProjeto.pdb
+C:\Users\Lucas\OneDrive\Área de Trabalho\Meus cursos\DIO\CSharp_DIO\Sintaxe e Tipos de Dados em C#\EntendendoEstruturaDeUmProjeto\obj\Debug\net7.0\EntendendoEstruturaDeUmProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\OneDrive\Área de Trabalho\Meus cursos\DIO\CSharp_DIO\Sintaxe e Tipos de Dados em C#\EntendendoEstruturaDeUmProjeto\obj\Debug\net7.0\EntendendoEstruturaDeUmProjeto.AssemblyInfoInputs.cache
+C:\Users\Lucas\OneDrive\Área de Trabalho\Meus cursos\DIO\CSharp_DIO\Sintaxe e Tipos de Dados em C#\EntendendoEstruturaDeUmProjeto\obj\Debug\net7.0\EntendendoEstruturaDeUmProjeto.AssemblyInfo.cs
+C:\Users\Lucas\OneDrive\Área de Trabalho\Meus cursos\DIO\CSharp_DIO\Sintaxe e Tipos de Dados em C#\EntendendoEstruturaDeUmProjeto\obj\Debug\net7.0\EntendendoEstruturaDeUmProjeto.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\OneDrive\Área de Trabalho\Meus cursos\DIO\CSharp_DIO\Sintaxe e Tipos de Dados em C#\EntendendoEstruturaDeUmProjeto\obj\Debug\net7.0\EntendendoEstruturaDeUmProjeto.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Meus cursos\DIO\CSharp_DIO\Sintaxe e Tipos de Dados em C#\EntendendoEstruturaDeUmProjeto\obj\Debug\net7.0\refint\EntendendoEstruturaDeUmProjeto.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Meus cursos\DIO\CSharp_DIO\Sintaxe e Tipos de Dados em C#\EntendendoEstruturaDeUmProjeto\obj\Debug\net7.0\EntendendoEstruturaDeUmProjeto.pdb
+C:\Users\Lucas\OneDrive\Área de Trabalho\Meus cursos\DIO\CSharp_DIO\Sintaxe e Tipos de Dados em C#\EntendendoEstruturaDeUmProjeto\obj\Debug\net7.0\EntendendoEstruturaDeUmProjeto.genruntimeconfig.cache
+C:\Users\Lucas\OneDrive\Área de Trabalho\Meus cursos\DIO\CSharp_DIO\Sintaxe e Tipos de Dados em C#\EntendendoEstruturaDeUmProjeto\obj\Debug\net7.0\ref\EntendendoEstruturaDeUmProjeto.dll

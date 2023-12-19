@@ -7,7 +7,7 @@ namespace EntendendoEstruturaDeUmProjeto.Models // organização das classes
 {
     public class Pessoa // Classe
     {
-        public string Nome { get; set; }
+        public string Nome { get; set; } // Propriedades
         public int Idade { get; set; }
 
         public void Apresentar() // Método
