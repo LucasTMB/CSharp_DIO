@@ -1,0 +1,14 @@
+C:\Users\Lucas\OneDrive\Área de Trabalho\Meus cursos\DIO\CSharp_DIO\Primeiros passos em C#\Conhecendo as Estruturas de Repetição em C#\Repeticao_CSharp\bin\Debug\net7.0\Repeticao_CSharp.exe
+C:\Users\Lucas\OneDrive\Área de Trabalho\Meus cursos\DIO\CSharp_DIO\Primeiros passos em C#\Conhecendo as Estruturas de Repetição em C#\Repeticao_CSharp\bin\Debug\net7.0\Repeticao_CSharp.deps.json
+C:\Users\Lucas\OneDrive\Área de Trabalho\Meus cursos\DIO\CSharp_DIO\Primeiros passos em C#\Conhecendo as Estruturas de Repetição em C#\Repeticao_CSharp\bin\Debug\net7.0\Repeticao_CSharp.runtimeconfig.json
+C:\Users\Lucas\OneDrive\Área de Trabalho\Meus cursos\DIO\CSharp_DIO\Primeiros passos em C#\Conhecendo as Estruturas de Repetição em C#\Repeticao_CSharp\bin\Debug\net7.0\Repeticao_CSharp.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Meus cursos\DIO\CSharp_DIO\Primeiros passos em C#\Conhecendo as Estruturas de Repetição em C#\Repeticao_CSharp\bin\Debug\net7.0\Repeticao_CSharp.pdb
+C:\Users\Lucas\OneDrive\Área de Trabalho\Meus cursos\DIO\CSharp_DIO\Primeiros passos em C#\Conhecendo as Estruturas de Repetição em C#\Repeticao_CSharp\obj\Debug\net7.0\Repeticao_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\OneDrive\Área de Trabalho\Meus cursos\DIO\CSharp_DIO\Primeiros passos em C#\Conhecendo as Estruturas de Repetição em C#\Repeticao_CSharp\obj\Debug\net7.0\Repeticao_CSharp.AssemblyInfoInputs.cache
+C:\Users\Lucas\OneDrive\Área de Trabalho\Meus cursos\DIO\CSharp_DIO\Primeiros passos em C#\Conhecendo as Estruturas de Repetição em C#\Repeticao_CSharp\obj\Debug\net7.0\Repeticao_CSharp.AssemblyInfo.cs
+C:\Users\Lucas\OneDrive\Área de Trabalho\Meus cursos\DIO\CSharp_DIO\Primeiros passos em C#\Conhecendo as Estruturas de Repetição em C#\Repeticao_CSharp\obj\Debug\net7.0\Repeticao_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\OneDrive\Área de Trabalho\Meus cursos\DIO\CSharp_DIO\Primeiros passos em C#\Conhecendo as Estruturas de Repetição em C#\Repeticao_CSharp\obj\Debug\net7.0\Repeticao_CSharp.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Meus cursos\DIO\CSharp_DIO\Primeiros passos em C#\Conhecendo as Estruturas de Repetição em C#\Repeticao_CSharp\obj\Debug\net7.0\refint\Repeticao_CSharp.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Meus cursos\DIO\CSharp_DIO\Primeiros passos em C#\Conhecendo as Estruturas de Repetição em C#\Repeticao_CSharp\obj\Debug\net7.0\Repeticao_CSharp.pdb
+C:\Users\Lucas\OneDrive\Área de Trabalho\Meus cursos\DIO\CSharp_DIO\Primeiros passos em C#\Conhecendo as Estruturas de Repetição em C#\Repeticao_CSharp\obj\Debug\net7.0\Repeticao_CSharp.genruntimeconfig.cache
+C:\Users\Lucas\OneDrive\Área de Trabalho\Meus cursos\DIO\CSharp_DIO\Primeiros passos em C#\Conhecendo as Estruturas de Repetição em C#\Repeticao_CSharp\obj\Debug\net7.0\ref\Repeticao_CSharp.dll
