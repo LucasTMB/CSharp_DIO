@@ -1,0 +1,14 @@
+C:\Users\Lucas\OneDrive\Área de Trabalho\Meus cursos\DIO\CSharp_DIO\Primeiros passos em C#\Operadores Aritméticos\Calculadora_CSharp\bin\Debug\net7.0\Calculadora_CSharp.exe
+C:\Users\Lucas\OneDrive\Área de Trabalho\Meus cursos\DIO\CSharp_DIO\Primeiros passos em C#\Operadores Aritméticos\Calculadora_CSharp\bin\Debug\net7.0\Calculadora_CSharp.deps.json
+C:\Users\Lucas\OneDrive\Área de Trabalho\Meus cursos\DIO\CSharp_DIO\Primeiros passos em C#\Operadores Aritméticos\Calculadora_CSharp\bin\Debug\net7.0\Calculadora_CSharp.runtimeconfig.json
+C:\Users\Lucas\OneDrive\Área de Trabalho\Meus cursos\DIO\CSharp_DIO\Primeiros passos em C#\Operadores Aritméticos\Calculadora_CSharp\bin\Debug\net7.0\Calculadora_CSharp.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Meus cursos\DIO\CSharp_DIO\Primeiros passos em C#\Operadores Aritméticos\Calculadora_CSharp\bin\Debug\net7.0\Calculadora_CSharp.pdb
+C:\Users\Lucas\OneDrive\Área de Trabalho\Meus cursos\DIO\CSharp_DIO\Primeiros passos em C#\Operadores Aritméticos\Calculadora_CSharp\obj\Debug\net7.0\Calculadora_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\OneDrive\Área de Trabalho\Meus cursos\DIO\CSharp_DIO\Primeiros passos em C#\Operadores Aritméticos\Calculadora_CSharp\obj\Debug\net7.0\Calculadora_CSharp.AssemblyInfoInputs.cache
+C:\Users\Lucas\OneDrive\Área de Trabalho\Meus cursos\DIO\CSharp_DIO\Primeiros passos em C#\Operadores Aritméticos\Calculadora_CSharp\obj\Debug\net7.0\Calculadora_CSharp.AssemblyInfo.cs
+C:\Users\Lucas\OneDrive\Área de Trabalho\Meus cursos\DIO\CSharp_DIO\Primeiros passos em C#\Operadores Aritméticos\Calculadora_CSharp\obj\Debug\net7.0\Calculadora_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\OneDrive\Área de Trabalho\Meus cursos\DIO\CSharp_DIO\Primeiros passos em C#\Operadores Aritméticos\Calculadora_CSharp\obj\Debug\net7.0\Calculadora_CSharp.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Meus cursos\DIO\CSharp_DIO\Primeiros passos em C#\Operadores Aritméticos\Calculadora_CSharp\obj\Debug\net7.0\refint\Calculadora_CSharp.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Meus cursos\DIO\CSharp_DIO\Primeiros passos em C#\Operadores Aritméticos\Calculadora_CSharp\obj\Debug\net7.0\Calculadora_CSharp.pdb
+C:\Users\Lucas\OneDrive\Área de Trabalho\Meus cursos\DIO\CSharp_DIO\Primeiros passos em C#\Operadores Aritméticos\Calculadora_CSharp\obj\Debug\net7.0\Calculadora_CSharp.genruntimeconfig.cache
+C:\Users\Lucas\OneDrive\Área de Trabalho\Meus cursos\DIO\CSharp_DIO\Primeiros passos em C#\Operadores Aritméticos\Calculadora_CSharp\obj\Debug\net7.0\ref\Calculadora_CSharp.dll
